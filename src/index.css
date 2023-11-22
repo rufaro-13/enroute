@@ -1,0 +1,16 @@
+ body::-webkit-scrollbar {
+  display: none;
+
+}
+.active {
+  color: red;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+ 
+ @tailwind base;
+@tailwind components;
+@tailwind utilities;
