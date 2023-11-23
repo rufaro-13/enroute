@@ -50,7 +50,7 @@ function Home() {
 
                 <div class=" lg:flex grid  lg:grid-cols-2 lg:gap-x-3 m-auto md:grid-cols-2 md:gap-x-2 grid-col-1 px-2 item-stretch ">
 
-                    <div className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 hover:bg-fuchsia-100 col-span-1 rounded-lg bg-bluetheme  md:w-1/2 mt-8 sm:items-center sm:justify-center">
+                    <div className="transition ease-in-out delay-150 hover:-translate-y-1 hover:translate-x-6 hover:scale-110 duration-300 hover:bg-fuchsia-100 col-span-1 rounded-lg bg-bluetheme  md:w-1/2 mt-8 sm:items-center sm:justify-center">
                         <img class="rounded-lg" src={domic} alt="old man sitting on a wheelchair" />
                         <h5 className="md:text-2xl text-lg font-bold tracking-tight text-titleblue dark:text-white pt-2">
                             <p>
@@ -74,7 +74,7 @@ function Home() {
                     </div>
                     
 
-                    <div className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 hover:bg-fuchsia-100 col-span-1 rounded-lg bg-bluetheme lg:w-1/2 md:w-1/2 mt-8 sm:items-center sm:justify-center">
+                    <div className="transition ease-in-out delay-150 hover:-translate-y-1 hover:translate-x-6  hover:scale-110 duration-300 hover:bg-fuchsia-100 col-span-1 rounded-lg bg-bluetheme lg:w-1/2 md:w-1/2 mt-8 sm:items-center sm:justify-center">
                     
                         <img class="rounded-lg" src={paliat} alt="end of life care of a man with terminal illness" />
                         <h5 className="md:text-2xl text-lg font-bold tracking-tight text-titleblue dark:text-white pt-2">
@@ -97,7 +97,7 @@ function Home() {
                         
                     </div>
                 
-                    <div className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 hover:bg-fuchsia-100 col-span-1 lg:w-1/2 rounded-lg bg-bluetheme md:w-1/3 mt-8 sm:items-center sm:justify-center">
+                    <div className="transition ease-in-out delay-150 hover:-translate-y-1 hover:translate-x-6 hover:scale-110 duration-300 hover:bg-fuchsia-100 col-span-1 lg:w-1/2 rounded-lg bg-bluetheme md:w-1/3 mt-8 sm:items-center sm:justify-center">
                         <img class="rounded-t-lg" src={respite} alt="young-doctor-helping-one-guy-stand-up" />
                         <h5 className="md:text-2xl text-lg font-bold tracking-tight text-titleblue dark:text-white pt-2">
                             <p>
@@ -119,7 +119,7 @@ function Home() {
                         </p>
                     </div>
 
-                    <div className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 hover:bg-fuchsia-100 col-span-1 rounded-lg bg-bluetheme lg:w-1/2 md:w-1/3 mt-8 sm:items-center sm:justify-center">
+                    <div className="transition ease-in-out delay-150 hover:-translate-y-1 hover:-translate-x-6 hover:scale-110 duration-300 hover:bg-fuchsia-100 col-span-1 rounded-lg bg-bluetheme lg:w-1/2 md:w-1/3 mt-8 sm:items-center sm:justify-center">
                         <img class="rounded-t-lg" src={supported} alt="male-social-worker-taking-care-old-woman" />
                         <h5 className="md:text-2xl text-lg font-bold tracking-tight text-titleblue dark:text-white pt-2">
                             <p >
