@@ -8,7 +8,7 @@ module.exports = {
         'navcolour':'#060047',
         'titleblue':'#3120E0',
         
-        'bluetheme':'#b2f7ef',
+        'bluetheme':'#E8FFFF',
         'darkbluetheme':'#161D6F',
         'red':'#ff0000',
         'greentheme':'#32a852',
@@ -19,7 +19,7 @@ module.exports = {
       },
 
       backgroundImage: {
-        'hero_pattern': "url('/src/images/african-social-worker-helping-senior-woman.jpg')",
+        'hero_pattern': "url('/src/images/pexels-kampus-production-7517699 (720p).mp4')",
         'team_work':"url('/src/images/older-man-wheelchair-smiles-nurse-assistant-she-hands-him-glass-water.jpg')",
         'social':"url('/src/images/senior-women-celebrating-friendship-park.jpg')",
         'personal':"url('/src/images/adult-male-waiting-recovery-session-start.jpg')"

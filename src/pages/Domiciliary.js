@@ -57,7 +57,7 @@ function Domiciliary() {
                             <img src={domiciliary}class=" rounded-lg md:h-96  mr-3" alt=""/> 
                         </div>
 
-                        <div class="  md:w-1/2  border-2 border-navcolour sm:82 rounded-lg  bg-teal-400 text-darkbluetheme   mx-4 ">
+                        <div class="  md:w-1/2  border-2 border-navcolour sm:82 rounded-lg  bg-yellowtheme text-darkbluetheme   mx-4 ">
                             <h5 class="mx-auto mt-2 mb-4 text-1xl font-bold tracking-tight leading-none  text-titleblue md:text-2xl lg:text-2xl">
                                 Domiciliary Care(Home Care) <br/><br/>
                             </h5>
@@ -109,7 +109,7 @@ function Domiciliary() {
                                 <div class="md:w-full col-span-1  pt-2">
                                     <img class="rounded-t-lg  " src={paliat}  alt="" />
                                 </div>
-                                <div class="md:w-full  sm:82 rounded-b-lg  border-2 border-navcolour bg-bluetheme text-darkbluetheme sm:items-center sm:justify-center  px-2 ">      
+                                <div class="md:w-full  sm:82 rounded-b-lg  border-2  bg-bluetheme text-darkbluetheme sm:items-center sm:justify-center  px-2 ">      
                                     <h5 className="md:text-2xl text-lg font-bold tracking-tight text-titleblue dark:text-white pt-2">
                                         <p>
                                         End-of-life Care(Palliative Care)
@@ -143,7 +143,7 @@ function Domiciliary() {
                             
                                 <img class="rounded-t-lg" src={respite} alt="" />
                                 </div>
-                                <div class="md:w-full  sm:82 rounded-b-lg  border-2 border-navcolour bg-bluetheme text-darkbluetheme sm:items-center sm:justify-center   px-2 ">
+                                <div class="md:w-full  sm:82 rounded-b-lg  border-2  bg-bluetheme text-darkbluetheme sm:items-center sm:justify-center   px-2 ">
                                     <h5 className="md:text-2xl text-lg font-bold tracking-tight text-titleblue dark:text-white pt-2">
                                         <p>
                                         Respite Care
@@ -173,7 +173,7 @@ function Domiciliary() {
                                 <div class="md:w-full col-span-1  pt-2">
                                     <img class="rounded-t-lg" src={domic} alt="" />
                                 </div>
-                                <div class="md:w-full  sm:82 rounded-b-lg  border-2 border-navcolour bg-bluetheme text-darkbluetheme sm:items-center sm:justify-center   px-2 ">
+                                <div class="md:w-full  sm:82 rounded-b-lg  border-2  bg-bluetheme text-darkbluetheme sm:items-center sm:justify-center   px-2 ">
                                     <h5 className="md:text-2xl text-lg font-bold tracking-tight text-titleblue dark:text-white pt-2">
                                             <p>
                                             Supported Living Care

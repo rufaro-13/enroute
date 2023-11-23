@@ -7,6 +7,7 @@ import paliat from '../images/high-angle-man-sleeping-with-mask.jpg'
 import respite from '../images/young-doctor-helping-one-guy-stand-up.jpg'
 import supported from '../images/male-social-worker-taking-care-old-woman.jpg'
 import serv from '../images/24-hours.gif'
+import vide from '../images/pexels-kampus-production-7517699 (720p).mp4'
 function Home() {
   return (
     <div >
@@ -17,10 +18,15 @@ function Home() {
             <link rel="canonical" href="/" />
         </Helmet>
        <section>
-        <section class=" bg-cover pt-20 bg-center bg-no-repeat bg-hero_pattern bg-gray-400 bg-blend-multiply ">
-            <div class="px-4 mx-auto max-w-screen-xl text-center  py-24 lg:py-40">
-            <h1 class=" text-4xl font-extrabold  tracking-tight leading-none text-bluetheme md:text-5xl lg:text-6xl">Enroute Care Ltd,</h1>
-                <p class=" text-2xl font-bold text-bluetheme lg:text-bluetheme  lg:text-4xl sm:px-16 lg:px-48">
+        <section class="container bg-cover bg-center bg-no-repeat bg-hero_pattern bg-gray-400 bg-blend-multiply ">
+            
+          <video class="video-fluid" controls autoPlay muted loop   >
+            <source src={vide} type="video/mp4" />
+             
+          </video>
+          <div class=" overlay px-4 mx-auto max-w-screen-xl text-center  py-24 lg:py-40">
+                <h1 class=" text-4xl font-extrabold  tracking-tight leading-none text-yellowtheme md:text-5xl lg:text-6xl">Enroute Care Ltd,</h1>
+                <p class=" text-2xl font-bold text-bluetheme lg:text-yellowtheme  lg:text-4xl sm:px-16 lg:px-48">
                 the home of love and care.
                     
                 </p>
@@ -34,6 +40,7 @@ function Home() {
                 
             </div>
         </section>
+        <div className=' text-center italic text-xs'><a  href=' https://www.pexels.com/video/a-woman-instructing-the-elderly-man-to-the-medicine-7517699/'>  Video by Kampus Production</a></div>
 
         <section>
             <div class=" px-4 mx-auto max-w-screen-xl text-center pt-4">

@@ -115,8 +115,8 @@ function Footer() {
         <hr class="my-6 border-yellowtheme sm:mx-auto dark:border-gray-700 lg:my-8" />
         <div class="sm:flex sm:items-center sm:justify-between ml-3">
         <span class="block text-sm text-yellowtheme sm:text-center dark:text-gray-400 col-span-1">© 2023 
-            <a href="https://veemuhealthcare.co.uk/" class="hover:underline text-yellowtheme">
-                VEEMU™
+            <a href="https://enroutecare.co.uk/" class="hover:underline text-yellowtheme">
+                Enroute Care™
             </a>. 
             All Rights Reserved.
         </span>
@@ -124,7 +124,7 @@ function Footer() {
         <span class="md:mr-3 block text-sm text-yellowtheme sm:text-center dark:text-gray-400 col-span-1 "> 
             <a href="mailto:rufarochiuta@gmail.com" class="hover:underline">
                 Developed by Rufaro Chiuta
-            </a>
+            </a><br/>
             
         </span>
 
