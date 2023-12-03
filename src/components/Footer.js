@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../images/veemu_png.png'
+import logo from '../images/ENROUTE_PNG.png'
 import {Link} from 'react-router-dom'
 import excellent from '../images/excellence.png'
 import equal from '../images/no-equal-to.png'
@@ -82,7 +82,7 @@ function Footer() {
     <div class="w-full max-w-screen-xl mx-auto py-5 md:py-8">
         <div class="sm:flex sm:items-center sm:justify-between">
             <a href="https://enroutecare.co.uk/" class="flex items-center mb-4 sm:mb-0">
-                <img src={logo} class="h-8 md:h-16 mr-3" alt="VEEMU Logo" />
+                <img src={logo} class="h-8 md:h-16 mr-3" alt="Enroute Logo" />
                 <span class="self-center text-yellowtheme md:text-2xl text-1xl font-bold whitespace-nowrap dark:text-white">Enroute Care Ltd</span>
             </a>
             <ul class="flex flex-wrap text-lg text-sm  pt-6 text-base font-medium text-white sm:mb-0 dark:text-gray-400">

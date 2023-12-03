@@ -6,7 +6,7 @@ import { Helmet } from 'react-helmet-async';
 import paliat from '../images/high-angle-man-sleeping-with-mask.jpg'
 import respite from '../images/young-doctor-helping-one-guy-stand-up.jpg'
 import supported from '../images/male-social-worker-taking-care-old-woman.jpg'
-import serv from '../images/24-hours.gif'
+/* import serv from '../images/24-hours.gif' */
 import vide from '../images/pexels-kampus-production-7517699 (720p).mp4'
 function Home() {
   return (
@@ -50,9 +50,9 @@ function Home() {
                         The services we offer include:
                     </h4>
 
-                    <div className="mb-4 rounded-lg overflow-hidden sm:w-16 lg:mt-0 mt-0 sm:mt-0">
+                    {/* <div className="mb-4 rounded-lg overflow-hidden sm:w-16 lg:mt-0 mt-0 sm:mt-0">
                         <img src={serv} alt="Residential Care" className="w-full lg:h-full h-12 object-cover" />
-                    </div>
+                    </div> */}
                 </div> 
 
                 <div class=" lg:flex grid  lg:grid-cols-2 lg:gap-x-3 m-auto md:grid-cols-2 md:gap-x-2 grid-col-1 px-2 item-stretch ">

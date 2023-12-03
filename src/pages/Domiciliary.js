@@ -2,7 +2,7 @@ import React from 'react'
 import domiciliary from '../images/smiley-man-woman-medium-shot.jpg'
 import domic from "../images/african-social-worker-helping-senior-woman.jpg"
 import paliat from '../images/nurse-consoling-old-crying-man.jpg'
-import respite from '../images/side-view-nurse-pushing-disabled-patient-wheel-chair.jpg'
+import respite from '../images/2150829771.jpg'
 import {Link} from 'react-router-dom'
 import { Helmet } from 'react-helmet-async'
 function Domiciliary() {
@@ -17,7 +17,7 @@ function Domiciliary() {
         <section class=" bg-cover bg-center bg-no-repeat bg-team_work bg-gray-600  bg-blend-multiply">
             <div class="px-4 mx-auto max-w-screen-xl  bg- py-24 lg:py-34">
                 <h1 class="mb-4 text-4xl font-extrabold  tracking-tight leading-none text-yellowtheme md:text-5xl lg:text-6xl">
-                Services offered by VEEMU:</h1>
+                Services offered by Enroute:</h1>
                
                 <div class="  md:w-1/2   rounded-lg  text-white   mx-4 ">
                             
@@ -110,6 +110,10 @@ function Domiciliary() {
                                     <img class="rounded-t-lg  " src={paliat}  alt="" />
                                 </div>
                                 <div class="md:w-full  sm:82 rounded-b-lg  border-2  bg-bluetheme text-darkbluetheme sm:items-center sm:justify-center  px-2 ">      
+                                    
+                                <div className=' text-center italic text-xs'>
+                                Image by <a href="https://www.freepik.com/free-photo/nurse-consoling-old-crying-man_10892957.htm#query=nurse-consoling-old-crying-man&position=2&from_view=search&track=sph&uuid=281e8519-fff5-45b8-b9c7-e4630ca871dd">Freepik</a>
+                                </div>
                                     <h5 className="md:text-2xl text-lg font-bold tracking-tight text-titleblue dark:text-white pt-2">
                                         <p>
                                         End-of-life Care(Palliative Care)
@@ -118,7 +122,7 @@ function Domiciliary() {
                                     <p className="font-normal text-sm md:text-lg  dark:text-gray-400 pt-4">
                                         <p className='rounded-lg text-left '>
                                         
-                                        We provide a range of services to those with a terminal diagnosis. VEEMU is there to provide physical, emotional,
+                                        We provide a range of services to those with a terminal diagnosis. Enroute is there to provide physical, emotional,
                                         social, and spiritual support for service users and their families during defining moments of life. We offer this service from the time of diagnosis through end-of-life.
                                         <br/><br/>
                                         <span className=' font-bold'>Why you should join us:</span> <br/><br/>
@@ -142,8 +146,13 @@ function Domiciliary() {
                                 <div class="md:w-full col-span-1 pt-2">
                             
                                 <img class="rounded-t-lg" src={respite} alt="" />
+                                
                                 </div>
                                 <div class="md:w-full  sm:82 rounded-b-lg  border-2  bg-bluetheme text-darkbluetheme sm:items-center sm:justify-center   px-2 ">
+                                    <div className=' text-center italic text-xs'>
+                                    <a  href='https://www.freepik.com/free-ai-image/female-nurse-portrait-with-older-patient_69871933.htm#fromView=search&term=multi+racial+elder+care&page=1&position=1&track=ais_ai_generated&regularType=ai&uuid=5b698252-979a-406b-9220-c4598f7e168b'>Image By freepik</a>
+                                </div>
+                                    
                                     <h5 className="md:text-2xl text-lg font-bold tracking-tight text-titleblue dark:text-white pt-2">
                                         <p>
                                         Respite Care
@@ -174,6 +183,9 @@ function Domiciliary() {
                                     <img class="rounded-t-lg" src={domic} alt="" />
                                 </div>
                                 <div class="md:w-full  sm:82 rounded-b-lg  border-2  bg-bluetheme text-darkbluetheme sm:items-center sm:justify-center   px-2 ">
+                                <div className=' text-center italic text-xs'>   
+                                Image by <a href="https://www.freepik.com/free-photo/african-social-worker-helping-senior-woman_16137242.htm#query=african-social-worker-helping-senior-woman&position=0&from_view=search&track=sph&uuid=dd03e146-c22c-48ac-94d6-50b5f58ccb1b">Freepik</a>
+                                 </div>   
                                     <h5 className="md:text-2xl text-lg font-bold tracking-tight text-titleblue dark:text-white pt-2">
                                             <p>
                                             Supported Living Care

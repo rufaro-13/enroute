@@ -9,7 +9,7 @@ function About() {
     <div>
 
      <Helmet>
-            <title>About Veemu HealthCare Ltd</title>
+            <title>About Enroute HealthCare Ltd</title>
             <meta name="description" content="Providing person centred care and support to all our service users with a range of care and support needs.
                         "/>
             <link rel="canonical" href="/about" />
@@ -66,7 +66,7 @@ function About() {
 
                         <p class="pl-4 font-normal text-darkbluetheme text-sm md:text-lg">
                         
-                        VEEMU will be a recognised leader in improving the quality of health care in the communities we serve .<br/>
+                        Enroute will be a recognised leader in improving the quality of health care in the communities we serve .<br/>
                         To become providers of choice.
 
 
@@ -133,7 +133,7 @@ function About() {
                             
                                 <p class="pl-4 font-medium text-darkbluetheme text-sm md:text-lg">
                                 
-                                <b>Person Centred Care -</b> VEEMU is flexible enough to be guided by the service user. We can work with each individual's 
+                                <b>Person Centred Care -</b>Enroute is flexible enough to be guided by the service user. We can work with each individual's 
                                 care plan.
 
                                 <br/><br/>
@@ -151,7 +151,7 @@ function About() {
                             
                                 <p class="pl-4  text-darkbluetheme font-medium text-sm md:text-lg">
                                 
-                                <b>Choice -</b> At VEEMU HealthCare Limited we value everyone's hapiness and comfort. 
+                                <b>Choice -</b> At Enroute Care Limited we value everyone's hapiness and comfort. 
                                 Service users are free to choose the services they want and how they want them .
 
                                 <br/><br/>

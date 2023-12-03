@@ -2,7 +2,7 @@
 
 import {Dropdown,  Navbar } from 'flowbite-react';
 import { Link } from "react-router-dom";
-import logo from '../images/veemu_png.png'
+import logo from '../images/ENROUTE_square_jpg.jpg'
 export default function NavbarWithCTAButton() {
   return (
     <Navbar
