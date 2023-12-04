@@ -32,7 +32,7 @@ function Home() {
                 </p>
                 <div class="flex flex-col space-y-4 rounded-lg border-solid border-navcolour sm:flex-row sm:justify-center pt-5 sm:space-y-0 sm:space-x-4">
                     
-                   <p className='text-white  py-3 px-3 rounded-lg font-bold  border-navcolour text-2xl lg:text-3xl md:w-1/2'>
+                   <p className='text-white  py-3 px-3 rounded-lg font-bold  border-navcolour text-1xl lg:text-3xl md:w-1/2'>
                         Our services are of quality and very affordable. We prioritize the comfort and wellbeing of our clients.
                    </p>      
                 </div> 
