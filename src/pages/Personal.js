@@ -11,7 +11,7 @@ function Personal() {
             <link rel="canonical" href="/personal" />
         </Helmet>
          <section>
-        <section class=" bg-cover bg-center bg-no-repeat bg-gray-200  bg-blend-multiply">
+        <section class=" bg-cover bg-center bg-no-repeat bg-sky-50  bg-blend-multiply">
             <div class="px-4 mx-auto max-w-screen-xl  bg- py-16 lg:py-20">
                 <h1 class="mb-4 text-4xl font-extrabold  tracking-tight leading-none text-darkbluetheme md:text-5xl lg:text-6xl">
                 Personal Care</h1>

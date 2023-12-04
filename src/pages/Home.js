@@ -1,11 +1,11 @@
 /* eslint-disable jsx-a11y/no-distracting-elements */
 import React from 'react'
 import { Link } from "react-router-dom";
-import domic from "../images/old-man-sitting-wheelchair-while-talking-nurse.jpg"
+import domic from "../images/unrecognizable-elderly-man-being-assisted-walk-with-mobility-walker-nursing-home.jpg"
 import { Helmet } from 'react-helmet-async';
-import paliat from '../images/high-angle-man-sleeping-with-mask.jpg'
-import respite from '../images/young-doctor-helping-one-guy-stand-up.jpg'
-import supported from '../images/male-social-worker-taking-care-old-woman.jpg'
+import paliat from '../images/happy-nurse-serving-elderly-senior-man-breakfast-bed-bedroom-nursing-home-thumb-up.jpg'
+import respite from '../images/side-view-nurse-pushing-disabled-patient-wheel-chair.jpg'
+import supported from '../images/social-worker-taking-care-senior-woman.jpg'
 /* import serv from '../images/24-hours.gif' */
 import vide from '../images/pexels-kampus-production-7517699 (720p).mp4'
 function Home() {
@@ -25,8 +25,8 @@ function Home() {
              
           </video>
           <div class=" overlay px-4 mx-auto max-w-screen-xl text-center sm:py-16  lg:py-40">
-                <h1 class=" text-4xl font-extrabold  tracking-tight leading-none text-yellowtheme md:text-5xl lg:text-6xl">Enroute Care Ltd,</h1>
-                <p class=" text-2xl font-bold text-bluetheme lg:text-yellowtheme  lg:text-4xl sm:px-16 lg:px-48">
+                <h1 class=" text-4xl font-extrabold  tracking-tight leading-none text-sky-800 md:text-5xl lg:text-6xl">Enroute Care Ltd,</h1>
+                <p class=" text-2xl font-bold text-bluetheme lg:text-sky-800  lg:text-4xl sm:px-16 lg:px-48">
                 the home of love and care.
                     
                 </p>
@@ -40,7 +40,7 @@ function Home() {
                 
             </div>
         </section>
-        <div className=' text-center italic text-xs'><a  href=' https://www.pexels.com/video/a-woman-instructing-the-elderly-man-to-the-medicine-7517699/'>  Video by Kampus Production</a></div>
+        {/* <div className=' text-center italic text-xs'><a  href=' https://www.pexels.com/video/a-woman-instructing-the-elderly-man-to-the-medicine-7517699/'>  Video by Kampus Production</a></div> */}
 
         <section>
             <div class=" px-4 mx-auto max-w-screen-xl text-center pt-4">
@@ -57,7 +57,7 @@ function Home() {
 
                 <div class=" lg:flex grid  lg:grid-cols-2 lg:gap-x-3 m-auto md:grid-cols-2 md:gap-x-2 grid-col-1 px-2 item-stretch ">
 
-                    <div className="transition ease-in-out delay-150 hover:-translate-y-1 hover:translate-x-6 hover:scale-110 duration-300 hover:bg-fuchsia-100 col-span-1 rounded-lg bg-bluetheme  md:w-1/2 mt-8 sm:items-center sm:justify-center">
+                    <div className="transition ease-in-out delay-150 hover:-translate-y-1 hover:translate-x-6 hover:scale-110 duration-300 hover:bg-blue-100 col-span-1 rounded-lg bg-bluetheme  md:w-1/2 mt-8 sm:items-center sm:justify-center">
                         <img class="rounded-lg" src={domic} alt="old man sitting on a wheelchair" />
                         <h5 className="md:text-2xl text-lg font-bold tracking-tight text-titleblue dark:text-white pt-2">
                             <p>
@@ -81,7 +81,7 @@ function Home() {
                     </div>
                     
 
-                    <div className="transition ease-in-out delay-150 hover:-translate-y-1 hover:translate-x-6  hover:scale-110 duration-300 hover:bg-fuchsia-100 col-span-1 rounded-lg bg-bluetheme lg:w-1/2 md:w-1/2 mt-8 sm:items-center sm:justify-center">
+                    <div className="transition ease-in-out delay-150 hover:-translate-y-1 hover:translate-x-6  hover:scale-110 duration-300 hover:bg-blue-100 col-span-1 rounded-lg bg-bluetheme lg:w-1/2 md:w-1/2 mt-8 sm:items-center sm:justify-center">
                     
                         <img class="rounded-lg" src={paliat} alt="end of life care of a man with terminal illness" />
                         <h5 className="md:text-2xl text-lg font-bold tracking-tight text-titleblue dark:text-white pt-2">
@@ -104,7 +104,7 @@ function Home() {
                         
                     </div>
                 
-                    <div className="transition ease-in-out delay-150 hover:-translate-y-1 hover:translate-x-6 hover:scale-110 duration-300 hover:bg-fuchsia-100 col-span-1 lg:w-1/2 rounded-lg bg-bluetheme md:w-1/3 mt-8 sm:items-center sm:justify-center">
+                    <div className="transition ease-in-out delay-150 hover:-translate-y-1 hover:translate-x-6 hover:scale-110 duration-300 hover:bg-blue-100 col-span-1 lg:w-1/2 rounded-lg bg-bluetheme md:w-1/3 mt-8 sm:items-center sm:justify-center">
                         <img class="rounded-t-lg" src={respite} alt="young-doctor-helping-one-guy-stand-up" />
                         <h5 className="md:text-2xl text-lg font-bold tracking-tight text-titleblue dark:text-white pt-2">
                             <p>
@@ -126,7 +126,7 @@ function Home() {
                         </p>
                     </div>
 
-                    <div className="transition ease-in-out delay-150 hover:-translate-y-1 hover:-translate-x-6 hover:scale-110 duration-300 hover:bg-fuchsia-100 col-span-1 rounded-lg bg-bluetheme lg:w-1/2 md:w-1/3 mt-8 sm:items-center sm:justify-center">
+                    <div className="transition ease-in-out delay-150 hover:-translate-y-1 hover:-translate-x-6 hover:scale-110 duration-300 hover:bg-blue-100 col-span-1 rounded-lg bg-bluetheme lg:w-1/2 md:w-1/3 mt-8 sm:items-center sm:justify-center">
                         <img class="rounded-t-lg" src={supported} alt="male-social-worker-taking-care-old-woman" />
                         <h5 className="md:text-2xl text-lg font-bold tracking-tight text-titleblue dark:text-white pt-2">
                             <p >

@@ -10,8 +10,8 @@ function Footer() {
     <div class='mt-5'>
         <section className='lg:pt-16'>
 
-<div className='bg-gray-200'>
-    <div className="sm:item-center bg-gray-200 sm:justify-center text-center ">
+<div className='bg-sky-50'>
+    <div className="sm:item-center  sm:justify-center text-center ">
 
         <h1 className='sm:tetx-2xl md:text-4xl text-darkbluetheme font-extrabold'>Why Choose Us</h1>
     </div>
@@ -121,9 +121,9 @@ function Footer() {
             All Rights Reserved.
         </span>
 
-        <span class="md:mr-3 block text-sm text-yellowtheme sm:text-center dark:text-gray-400 col-span-1 "> 
+        <span class="md:mr-3 block text-xs text-yellowtheme sm:text-center dark:text-gray-400 col-span-1 "> 
             <a href="mailto:rufarochiuta@gmail.com" class="hover:underline">
-                Developed by Rufaro Chiuta
+                Developed by Amani First
             </a><br/>
             
         </span>

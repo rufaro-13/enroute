@@ -8,12 +8,15 @@ module.exports = {
         'navcolour':'#060047',
         'titleblue':'#3120E0',
         
-        'bluetheme':'#E8FFFF',
+        /* 'bluetheme':'#E8FFFF', */
+        'bluetheme':'white',
         'darkbluetheme':'#161D6F',
         'red':'#ff0000',
         'greentheme':'#32a852',
         'cards':'#89cff0',
-        'yellowtheme':'#9DF1DF',
+        'footer':'#4b91ad',
+       /*  'yellowtheme':'#9DF1DF', */
+       'yellowtheme':'white',
         'goldtheme':'#FFEA20',
 
       },

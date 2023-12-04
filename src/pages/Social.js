@@ -1,5 +1,5 @@
 import React from 'react'
-import inclusion from '../images/seniors-playing-cards-cafe.jpg'
+import inclusion from '../images/senior-women-celebrating-friendship-park.jpg'
 import {Helmet} from 'react-helmet-async'
 function Social() {
   return (
@@ -11,7 +11,7 @@ function Social() {
             <link rel="canonical" href="/social" />
         </Helmet>
         <section>
-        <section class=" bg-cover bg-center bg-no-repeat  bg-gray-200  bg-blend-multiply">
+        <section class=" bg-cover bg-center bg-no-repeat  bg-sky-50  bg-blend-multiply">
             <div class="px-4 mx-auto max-w-screen-xl  bg- py-16 lg:py-20">
                 <h1 class="mb-4 text-4xl font-extrabold  tracking-tight leading-none text-darkbluetheme md:text-5xl lg:text-6xl">
                 Social Inclusion:</h1>

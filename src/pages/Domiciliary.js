@@ -1,8 +1,8 @@
 import React from 'react'
 import domiciliary from '../images/smiley-man-woman-medium-shot.jpg'
-import domic from "../images/african-social-worker-helping-senior-woman.jpg"
-import paliat from '../images/nurse-consoling-old-crying-man.jpg'
-import respite from '../images/2150829771.jpg'
+import domic from "../images/social-worker-taking-care-senior-woman.jpg"
+import paliat from '../images/happy-nurse-serving-elderly-senior-man-breakfast-bed-bedroom-nursing-home-thumb-up.jpg'
+import respite from '../images/shes-like-daughter-me-portrait-cheerful-young-female-nurse-holding-elderly-patient-wheelchair-as-support-inside-home-during-day_590464-12165.avif'
 import {Link} from 'react-router-dom'
 import { Helmet } from 'react-helmet-async'
 function Domiciliary() {
@@ -57,7 +57,7 @@ function Domiciliary() {
                             <img src={domiciliary}class=" rounded-lg md:h-96  mr-3" alt=""/> 
                         </div>
 
-                        <div class="  md:w-1/2  border-2 border-navcolour sm:82 rounded-lg  bg-yellowtheme text-darkbluetheme   mx-4 ">
+                        <div class="  md:w-1/2  border-1 border-navcolour sm:82 rounded-lg   text-darkbluetheme   mx-4 ">
                             <h5 class="mx-auto mt-2 mb-4 text-1xl font-bold tracking-tight leading-none  text-titleblue md:text-2xl lg:text-2xl">
                                 Domiciliary Care(Home Care) <br/><br/>
                             </h5>
@@ -86,7 +86,7 @@ function Domiciliary() {
                     
                 </div>
 
-                <p class='font-normal bg-bluetheme text-darkbluetheme text-sm md:text-lg   sm:items-center sm:justify-center px-2'>
+                <p class='font-normal bg-bluetheme text-darkbluetheme text-sm md:text-base   sm:items-center sm:justify-center px-2'>
                     <span className='text-xl font-bold'>Why should you choose our domiciliary care services:</span> <br/><br/>
                     <ul class="list-disc ml-8">
                         <li> We are affordable, we listen and incorporate your wishes.</li>
@@ -109,17 +109,17 @@ function Domiciliary() {
                                 <div class="md:w-full col-span-1  pt-2">
                                     <img class="rounded-t-lg  " src={paliat}  alt="" />
                                 </div>
-                                <div class="md:w-full  sm:82 rounded-b-lg  border-2  bg-bluetheme text-darkbluetheme sm:items-center sm:justify-center  px-2 ">      
+                                <div class="md:w-full  sm:82 rounded-b-lg  border-1  bg-bluetheme text-darkbluetheme sm:items-center sm:justify-center  px-2 ">      
                                     
-                                <div className=' text-center italic text-xs'>
+                                {/* <div className=' text-center italic text-xs'>
                                 Image by <a href="https://www.freepik.com/free-photo/nurse-consoling-old-crying-man_10892957.htm#query=nurse-consoling-old-crying-man&position=2&from_view=search&track=sph&uuid=281e8519-fff5-45b8-b9c7-e4630ca871dd">Freepik</a>
-                                </div>
+                                </div> */}
                                     <h5 className="md:text-2xl text-lg font-bold tracking-tight text-titleblue dark:text-white pt-2">
                                         <p>
                                         End-of-life Care(Palliative Care)
                                         </p>
                                     </h5>
-                                    <p className="font-normal text-sm md:text-lg  dark:text-gray-400 pt-4">
+                                    <p className="font-normal text-sm md:text-base  dark:text-gray-400 pt-4">
                                         <p className='rounded-lg text-left '>
                                         
                                         We provide a range of services to those with a terminal diagnosis. Enroute is there to provide physical, emotional,
@@ -148,17 +148,17 @@ function Domiciliary() {
                                 <img class="rounded-t-lg" src={respite} alt="" />
                                 
                                 </div>
-                                <div class="md:w-full  sm:82 rounded-b-lg  border-2  bg-bluetheme text-darkbluetheme sm:items-center sm:justify-center   px-2 ">
-                                    <div className=' text-center italic text-xs'>
+                                <div class="md:w-full  sm:82 rounded-b-lg  border-1  bg-bluetheme text-darkbluetheme sm:items-center sm:justify-center   px-2 ">
+                                    {/* <div className=' text-center italic text-xs'>
                                     <a  href='https://www.freepik.com/free-ai-image/female-nurse-portrait-with-older-patient_69871933.htm#fromView=search&term=multi+racial+elder+care&page=1&position=1&track=ais_ai_generated&regularType=ai&uuid=5b698252-979a-406b-9220-c4598f7e168b'>Image By freepik</a>
-                                </div>
+                                </div> */}
                                     
                                     <h5 className="md:text-2xl text-lg font-bold tracking-tight text-titleblue dark:text-white pt-2">
                                         <p>
                                         Respite Care
                                         </p>
                                     </h5>
-                                    <p className="font-normal text-sm md:text-lg  dark:text-gray-400 pt-4">
+                                    <p className="font-normal text-sm md:text-base  dark:text-gray-400 pt-4">
                                         <p className='text-left'>
                                         We help primary caregivers and families get some relief in order to re-energise by providing
                                         temporary care services to their loved ones being looked after. This allows carers/family some time to catch up with friends
@@ -182,10 +182,10 @@ function Domiciliary() {
                                 <div class="md:w-full col-span-1  pt-2">
                                     <img class="rounded-t-lg" src={domic} alt="" />
                                 </div>
-                                <div class="md:w-full  sm:82 rounded-b-lg  border-2  bg-bluetheme text-darkbluetheme sm:items-center sm:justify-center   px-2 ">
-                                <div className=' text-center italic text-xs'>   
+                                <div class="md:w-full  sm:82 rounded-b-lg  border-1  bg-bluetheme text-darkbluetheme sm:items-center sm:justify-center   px-2 ">
+                                {/* <div className=' text-center italic text-xs'>   
                                 Image by <a href="https://www.freepik.com/free-photo/african-social-worker-helping-senior-woman_16137242.htm#query=african-social-worker-helping-senior-woman&position=0&from_view=search&track=sph&uuid=dd03e146-c22c-48ac-94d6-50b5f58ccb1b">Freepik</a>
-                                 </div>   
+                                 </div>  */}  
                                     <h5 className="md:text-2xl text-lg font-bold tracking-tight text-titleblue dark:text-white pt-2">
                                             <p>
                                             Supported Living Care
@@ -193,7 +193,7 @@ function Domiciliary() {
                                     </h5>
                                     
 
-                                    <p className="font-normal text-sm md:text-lg  dark:text-gray-400 pt-4">
+                                    <p className="font-normal text-sm md:text-base  dark:text-gray-400 pt-4">
                                         <p className='text-left'>
                                         Our Supported Living services help people to live independently and manage their own tenancies, 
                                         with support designed around their needs and goals. We aim to promote choice and personalise our 

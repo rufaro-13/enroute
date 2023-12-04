@@ -47,13 +47,13 @@ export default function NavbarWithCTAButton() {
         >
         <Dropdown.Header className='bg-navcolour'>
         <ul class="py-2 text-sm text-gray-700 dark:text-gray-400">
-        <Link to="/social" className='hover:bg-bluetheme hover:text-darkbluetheme active:bg-bluetheme focus:outline-none text-yellowtheme font-bold md:text-sm hover:bg-blue-700 hover:text-white'>
+        <Link to="/social" className='hover:bg-footer hover:text-darkbluetheme active:bg-bluetheme focus:outline-none text-yellowtheme font-bold md:text-sm hover:bg-blue-700 hover:text-white'>
           Social Inclusion
         </Link><br/>
-        <Link to="/personal" className='hover:bg-bluetheme hover:text-darkbluetheme active:bg-bluetheme focus:outline-none text-yellowtheme font-bold md:text-sm hover:bg-blue-700 hover:text-white'>
+        <Link to="/personal" className='hover:bg-footer hover:text-darkbluetheme active:bg-bluetheme focus:outline-none text-yellowtheme font-bold md:text-sm hover:bg-blue-700 hover:text-white'>
           Personal Care
         </Link><br/>
-        <Link to="/sitting" className='hover:bg-bluetheme hover:text-darkbluetheme active:bg-bluetheme focus:outline-none text-yellowtheme font-bold md:text-sm hover:bg-blue-700 hover:text-white'>
+        <Link to="/sitting" className='hover:bg-footer hover:text-darkbluetheme active:bg-bluetheme focus:outline-none text-yellowtheme font-bold md:text-sm hover:bg-blue-700 hover:text-white'>
           Sitting Call
         </Link><br/>
                 </ul>
