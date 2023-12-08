@@ -46,7 +46,7 @@ function Home() {
             <div class=" px-4 mx-auto max-w-screen-xl text-center pt-4">
 
                 <div class="px-4 mx-auto max-w-screen-xl text-center pt-6 flex ">
-                    <h4 class="mb-4 text-1xl font-extrabold tracking-tight leading-none text-darkbluetheme md:text-3xl lg:text-3xl">
+                    <h4 class="mb-4 text-2xl font-extrabold tracking-tight leading-none text-darkbluetheme md:text-3xl lg:text-3xl">
                         The services we offer include:
                     </h4>
 
@@ -126,7 +126,7 @@ function Home() {
                         </p>
                     </div>
 
-                    <div className="transition ease-in-out delay-150 hover:-translate-y-1 hover:-translate-x-6 hover:scale-110 duration-300 hover:bg-blue-100 col-span-1 rounded-lg bg-bluetheme lg:w-1/2 md:w-1/3 mt-8 sm:items-center sm:justify-center">
+                    <div className="transition ease-in-out delay-150 hover:-translate-y-1 hover:translate-x-6 hover:scale-110 duration-300 hover:bg-blue-100 col-span-1 rounded-lg bg-bluetheme lg:w-1/2 md:w-1/3 mt-8 sm:items-center sm:justify-center">
                         <img class="rounded-t-lg" src={supported} alt="male-social-worker-taking-care-old-woman" />
                         <h5 className="md:text-2xl text-lg font-bold tracking-tight text-titleblue dark:text-white pt-2">
                             <p >
