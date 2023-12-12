@@ -128,8 +128,7 @@ function Domiciliary() {
                                         <span className=' font-bold'>Why you should join us:</span> <br/><br/>
                                         <ul class="list-disc ml-6">
                                             <li>We provide reassurance, comfort and companionship.</li>
-                                            <li>We bring comfort to loved ones by knowing that their relative/friend is receiving good quality care. This reduces 
-                                                stress and anxiety.
+                                            <li>We bring comfort to loved ones by knowing that their relative/friend is receiving good quality care.
                                             </li>
                                             <li>Help to manage pain using prescribed medication as well as engaging in therapeutic intervention.</li>
                                         </ul>
@@ -160,17 +159,17 @@ function Domiciliary() {
                                     </h5>
                                     <p className="font-normal text-sm md:text-base  dark:text-gray-400 pt-4">
                                         <p className='text-left'>
-                                        We help primary caregivers and families get some relief in order to re-energise by providing
-                                        temporary care services to their loved ones being looked after. This allows carers/family some time to catch up with friends
-                                        and engage in other activities of their interest.<br/><br/>
+                                        We help primary caregivers and families get some relief by providing temporary care services to their loved ones. 
+                                        Allowing them time to recharge whilst ensuring that the individual receiving care is looked after by trained professionals 
+                                        in a safe environment.<br/><br/>
                                          
 
                                         <span className=' font-bold'>We strive to:</span>
     <br/>
                                         <ul class="list-disc ml-6">
-                                            <li>promote the mental health and wellbeing of our carers and the individual being cared for.</li>
-                                            <li>prevent burnouts and provide the opportunity for a break to family members or carers.</li>
-                                            <li>offer a person centred care, placing our service users at the centre of our services.</li>
+                                            <li>Promote the mental health and wellbeing of our carers and the individual being cared for.</li>
+                                            <li>Prevent burnouts and provide the opportunity for a break to family members or carers.</li>
+                                            <li>Offer a person centred care, placing our service users at the centre of our services.</li>
                                         </ul>
                                     </p> <br/><br/>
                                     </p>
@@ -197,8 +196,8 @@ function Domiciliary() {
                                         <p className='text-left'>
                                         Our Supported Living services help people to live independently and manage their own tenancies, 
                                         with support designed around their needs and goals. We aim to promote choice and personalise our 
-                                        services to the needs of our service users. We support adults with mental health needs, dementia 
-                                        and those recovering from hospital discharge.The services we offer include support with:<br/><br/>
+                                        services to the needs of our service users. We support adults with mental health needs, dementia and those post hospital discharge. 
+                                        The services we offer include support with:<br/><br/>
                                         <ul class="list-disc ml-6">
                                             <li>Cooking, cleaning and running errands</li>
                                             <li>Promoting a healthy lifestyle</li>

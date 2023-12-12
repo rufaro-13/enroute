@@ -35,11 +35,10 @@ function Personal() {
                                         
                                     
                                         <ul class="list-disc ml-6">
-                                            <li>Help with getting up.</li>
-                                            <li>Help with going to bed.</li>
-                                            <li>Assistance with incontinence.</li>
-                                            <li>Assistance with medication.</li>
-                                            <li>Meal preparation, preparing hot /cold drinks and helping you to meet any dietary, religious or cultural requirements.</li>
+                                            <li>Personal care: Assisting with tasks such as bathing, dressing, grooming, and toileting.</li>
+                                            <li>Medication management: Prompting medication from blister pack, monitoring supply.</li>
+                                            <li>Mobility assistance: Helping clients move around safely, using mobility aids if necessary.</li>
+                                            <li>Meal preparation: Preparing nutritious meals according to dietary, religious or cultural requirements and preferences. Offering hot and cold drinks</li>
                                             
                                         </ul>
                                         </p>

@@ -27,13 +27,13 @@ function Home() {
           <div class=" overlay px-4 mx-auto max-w-screen-xl text-center sm:py-16  lg:py-40">
                 <h1 class=" text-4xl font-extrabold  tracking-tight leading-none text-sky-800 md:text-5xl lg:text-6xl">Enroute Care Ltd,</h1>
                 <p class=" text-2xl font-bold text-sky-800  lg:text-4xl sm:px-16 lg:px-48">
-                the home of love and care.
+                the home of quality care.
                     
                 </p>
                 <div class="flex flex-col space-y-4 rounded-lg border-solid border-navcolour sm:flex-row sm:justify-center pt-5 sm:space-y-0 sm:space-x-4">
                     
                    <p className='text-white  py-3 px-3 rounded-lg font-bold  border-navcolour text-1xl lg:text-3xl md:w-1/2'>
-                        Our services are of quality and very affordable. We prioritize the comfort and wellbeing of our clients.
+                   An affordable service which prioritises the comfort and wellbeing of clients.
                    </p>      
                 </div> 
 
