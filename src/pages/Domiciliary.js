@@ -130,7 +130,7 @@ function Domiciliary() {
                                             <li>We provide reassurance, comfort and companionship.</li>
                                             <li>We bring comfort to loved ones by knowing that their relative/friend is receiving good quality care.
                                             </li>
-                                            <li>Help to manage pain using prescribed medication as well as engaging in therapeutic intervention.</li>
+                                            <li>Prompting medication from blister pack and monitoring supply</li>
                                         </ul>
                                         </p>
 
