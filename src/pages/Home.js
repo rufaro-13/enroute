@@ -25,7 +25,7 @@ function Home() {
              
           </video>
           <div class=" overlay px-4 mx-auto max-w-screen-xl text-center sm:py-16  lg:py-40">
-                <h1 class=" text-4xl font-extrabold  tracking-tight leading-none text-sky-800 md:text-5xl lg:text-6xl">Enroute Care Ltd,</h1>
+                <h1 class=" text-4xl font-extrabold  tracking-tight leading-none text-sky-800 md:text-5xl lg:text-6xl">Enroute Health Care Ltd,</h1>
                 <p class=" text-2xl font-bold text-sky-800  lg:text-4xl sm:px-16 lg:px-48">
                 the home of quality care.
                     

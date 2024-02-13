@@ -151,7 +151,7 @@ function About() {
                             
                                 <p class="pl-4  text-darkbluetheme font-medium text-sm md:text-lg">
                                 
-                                <b>Choice -</b> At Enroute Care Limited we value everyone's hapiness and comfort. 
+                                <b>Choice -</b> At Enroute Health Care Ltd we value everyone's hapiness and comfort. 
                                 Service users are free to choose the services they want and how they want them .
 
                                 <br/><br/>

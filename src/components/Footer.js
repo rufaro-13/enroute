@@ -83,7 +83,7 @@ function Footer() {
         <div class="sm:flex sm:items-center sm:justify-between">
             <a href="https://enroutecare.co.uk/" class="flex items-center mb-4 sm:mb-0">
                 <img src={logo} class="h-8 md:h-16 ml-2" alt="Enroute Logo" />
-                <span class="self-center text-yellowtheme md:text-2xl text-1xl font-bold whitespace-nowrap dark:text-white">  Enroute Care Ltd</span>
+                <span class="self-center text-yellowtheme md:text-2xl text-1xl font-bold whitespace-nowrap dark:text-white">  Enroute Health Care Ltd</span>
             </a>
             <ul class="flex flex-wrap text-lg text-sm  pt-6 text-base font-medium text-white sm:mb-0 dark:text-gray-400">
                 <p className='text-yellowtheme text-lg font-bold md:px-6 px-4'>

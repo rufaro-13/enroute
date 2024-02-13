@@ -26,7 +26,7 @@ function Contact() {
     <div>
 
 <Helmet>
-            <title>Enroute Care Contacts</title>
+            <title>Enroute Health Care Contacts</title>
             <meta name="description" content="Get in touch with us in the provided contact information"/>
             <link rel="canonical" href="/contact" />
         </Helmet>
@@ -35,7 +35,7 @@ function Contact() {
 
                 <div class="lg:px-4 mx-auto max-w-screen-xl text-center pt-6  ">
                     <h4 class="mb-4 text-1xl font-extrabold tracking-tight leading-none text-darkbluetheme md:text-3xl lg:text-3xl">
-                    Contacting Enroute Care
+                    Contacting Enroute Health Care
                     </h4>
                 </div> 
 
@@ -137,7 +137,7 @@ function Contact() {
                    
 
 
-                    <div class="lg:px-1 px-4  col-span-1 max-w-max  md:w-1/2 sm:items-start sm:justify-start">
+                    <div class="lg:px-1 px-3  col-span-1 max-w-max  md:w-1/2 sm:items-start sm:justify-start">
 
                           <IconContext.Provider value={{ color: '#89cff0', size: '50px', padding:'5px 2px' }}>
                             <a href="https://www.google.com/maps/place/27+Allesley+Old+Rd,+Chapel+Fields,+Coventry+CV5+8BU,+UK/@52.4081204,-1.5319451,17z"><div class="  sm:items-center sm:justify-center   mt-5 mb-5">
@@ -150,7 +150,7 @@ function Contact() {
                                 <span class="text-black text-2xl font-bold">
                                   <a href="https://www.google.com/maps/place/27+Allesley+Old+Rd,+Chapel+Fields,+Coventry+CV5+8BU,+UK/@52.4081204,-1.5319451,17z" 
                                       className="block py-2  underline text-navcolour rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500 dark:text-navcolour dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Visit Us</a></span></div>
-                                      EnrouteCare Ltd<br/>27 Allesley Old Road
+                                      Enroute Health Care <br/>27 Allesley Old Road
                                       <br/>Chapel Fields
                                       <br/>Coventry
                                       <br/>CV58BU

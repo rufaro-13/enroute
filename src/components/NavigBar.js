@@ -21,7 +21,7 @@ export default function NavbarWithCTAButton() {
           src={logo}
         /></Link>
         <span className="self-center whitespace-nowrap text-yellowtheme text-xl font-bold dark:text-white">
-          Enroute Care Ltd
+          Enroute Health Care Ltd
         </span>
       </Navbar.Brand>
       <div className="flex md:order-2 text-white">
